@@ -1,0 +1,9 @@
+{
+    "path" : "D:/Github/hugo-academic/exampleSite/config/_default",
+    "sortOrder" : [
+        {
+            "ascending" : true,
+            "columnIndex" : 2
+        }
+    ]
+}
